@@ -1,0 +1,17 @@
+# Day 1: 30 days of Python
+
+print(3 + 4)
+print(3 - 4)
+print(3 * 4)
+print(3 % 4)
+print(3 / 4)
+print(3 ** 4)
+print(3 // 4)
+print("Ambu")
+print("Romania")
+print("This is a lot of prints :)")
+print(type(1))
+print(type(2.3))
+print(type(4 - 4j))
+print(type("Ambu"))
+print(type(['boom','boom','pow']))
